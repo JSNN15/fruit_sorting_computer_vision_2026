@@ -1,8 +1,8 @@
 # Selector IA de fruta
 
-**Una línea de selección con IA para plantas de embalaje: la cámara mira cada fruta, el modelo decide si está buena o mala y comanda el expulsor. Sin cansancio, con un criterio parejo y con registro por lote y hora.**
+**Una línea de selección con IA para plantas de embalaje: la cámara mira cada fruta, el modelo decide si está buena o mala y acciona el expulsor. Sin cansancio, con un criterio parejo y con registro por lote y hora.**
 
-[![Abrir la máquina](https://img.shields.io/badge/Probar-jsnn15.github.io%2Fselector--fruta-3ccf7a?style=for-the-badge)](https://jsnn15.github.io/selector-fruta/)
+[![Abrir la herramienta](https://img.shields.io/badge/Probar-jsnn15.github.io%2Fselector--fruta-3ccf7a?style=for-the-badge)](https://jsnn15.github.io/selector-fruta/)
 ![MobileNetV3](https://img.shields.io/badge/MobileNetV3-~3%20ms%20por%20fruta-111?style=flat-square)
 ![ONNX Runtime Web](https://img.shields.io/badge/ONNX%20Runtime-en%20el%20navegador-555?style=flat-square)
 ![Licencia](https://img.shields.io/badge/c%C3%B3digo-Apache--2.0-blue?style=flat-square)
@@ -62,4 +62,4 @@ Clasificador entrenado con 2.240 fotos de 8 frutas, frescas y en mal estado, y e
 ---
 
 <sub>Proyecto personal de **Julián Neira Nova**, ingeniero eléctrico con 10 años en faena · Servicio y Soluciones Tecnológicas DelaCruz SpA. Nada de lo publicado proviene de clientes ni de empleadores.
-[Portafolio](https://jsnn15.github.io/) · [LinkedIn](https://www.linkedin.com/in/julian-neira-nova/) · [Todas las máquinas](https://github.com/JSNN15)</sub>
+[Portafolio](https://jsnn15.github.io/) · [LinkedIn](https://www.linkedin.com/in/julian-neira-nova/) · [Todas las herramientas](https://github.com/JSNN15)</sub>
